@@ -1,4 +1,4 @@
-Designing
-Reading
-Riding
+* Designing
+* Reading
+* Riding
 
